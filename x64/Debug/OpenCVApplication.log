@@ -1,0 +1,24 @@
+﻿  OpenCVApplication.cpp
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(381): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(382): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(513): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(514): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(515): warning C4244: '=': conversion from 'float' to 'uchar', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(656): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(687): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(744): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(745): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(746): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1079): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1098): warning C4474: 'printf' : too many arguments passed for format string
+  d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1098): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1465): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1467): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1482): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1599): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(1656): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\facultate\image processing\lab\opencvapplication-vs2017_ocv340_basic\opencvapplication.cpp(603): warning C4172: returning address of local variable or temporary: center
+  OpenCVApplication.vcxproj -> D:\Facultate\Image Processing\Lab\OpenCVApplication-VS2017_OCV340_basic\x64\Debug\OpenCVApplication.exe
+  OpenCV\dll\Debug\opencv_ffmpeg340_64.dll
+  OpenCV\dll\Debug\opencv_world340d.dll
+          2 file(s) copied.
